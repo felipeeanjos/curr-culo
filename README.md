@@ -1,4 +1,4 @@
-📄 Meu Currículo Interativo 
+📄 Meu Currículo Interativo /n
 Bem-vindo ao meu currículo online! Este projeto foi desenvolvido com Streamlit para apresentar minha trajetória profissional de forma dinâmica, acessível e interativa.
 
 [Acesse meu currículo aqui](https://curr-culo-korpgbnmvzwugsjiyevye2.streamlit.app/)
